@@ -1,0 +1,49 @@
+﻿  glad.c
+  main.cpp
+e:\计算机图形学\cg_course-design\cg_course-design\main.cpp(45): warning C4305: “初始化”: 从“double”到“float”截断
+e:\计算机图形学\cg_course-design\cg_course-design\main.cpp(185): warning C4838: 从“FT_Pos”转换到“GLuint”需要收缩转换
+e:\计算机图形学\cg_course-design\cg_course-design\main.cpp(377): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\计算机图形学\cg_course-design\cg_course-design\main.cpp(378): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\计算机图形学\cg_course-design\cg_course-design\main.cpp(379): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\计算机图形学\cg_course-design\cg_course-design\main.cpp(457): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\计算机图形学\cg_course-design\cg_course-design\main.cpp(466): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\计算机图形学\cg_course-design\cg_course-design\main.cpp(467): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\计算机图形学\cg_course-design\cg_course-design\main.cpp(425): warning C4101: “height”: 未引用的局部变量
+e:\计算机图形学\cg_course-design\cg_course-design\main.cpp(425): warning C4101: “nrChannels”: 未引用的局部变量
+e:\计算机图形学\cg_course-design\cg_course-design\main.cpp(425): warning C4101: “width”: 未引用的局部变量
+e:\计算机图形学\cg_course-design\cg_course-design\main.cpp(407): warning C4101: “VAO_skybox”: 未引用的局部变量
+e:\计算机图形学\cg_course-design\cg_course-design\main.cpp(407): warning C4101: “VBO_skybox”: 未引用的局部变量
+e:\计算机图形学\cg_course-design\cg_course-design\main.cpp(888): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\计算机图形学\cg_course-design\cg_course-design\main.cpp(889): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\计算机图形学\cg_course-design\cg_course-design\main.cpp(893): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\计算机图形学\cg_course-design\cg_course-design\main.cpp(894): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\计算机图形学\cg_course-design\cg_course-design\main.cpp(896): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\计算机图形学\cg_course-design\cg_course-design\main.cpp(897): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\计算机图形学\cg_course-design\cg_course-design\main.cpp(907): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  myImage.cpp
+  正在生成代码...
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+freetype28d.lib(autofit.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(autofit.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(bdf.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(bdf.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(cff.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(cff.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(ftbase.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(ftbase.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(ftbitmap.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(ftbitmap.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(ftdebug.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(ftdebug.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(ftgzip.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(ftgzip.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(ftinit.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(ftinit.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(ftlzw.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(ftlzw.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(ftsystem.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(ftsystem.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(smooth.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(smooth.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(pcf.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(pcf.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(pfr.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(pfr.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(psaux.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(psaux.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(pshinter.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(pshinter.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(psmodule.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(psmodule.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(raster.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(raster.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(sfnt.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(sfnt.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(truetype.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(truetype.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(type1.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(type1.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(type1cid.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(type1cid.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(type42.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(type42.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype28d.lib(winfnt.obj) : warning LNK4099: 未找到 PDB“freetype28d.pdb”(使用“freetype28d.lib(winfnt.obj)”或在“E:\计算机图形学\CG_course-design\Debug\freetype28d.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  CG_course-design.vcxproj -> E:\计算机图形学\CG_course-design\Debug\CG_course-design.exe
